@@ -1,61 +1,11 @@
 [
   {
-    "name": "Nawang",
-    "userName": "nawatend",
-    "homePage": "https://www.nawangtendar.be",
-    "modules": [
-      "Working with Code"
-    ]
-  },
-  {
-    "name": "Tamar",
-    "userName": "talmurshidi",
-    "homePage": "https://www.linkedin.com/in/talmurhsidi",
-    "modules": [
-      "Working with Code"
-    ]
-  },
-  {
-    "name": "Stéphane",
-    "userName": "snicoll",
-    "homePage": "https://about.me/snicoll",
-    "modules": [
-      "Working with Code",
-      "Incremental Development"
-    ]
-  },
-  {
-    "name": "Tiago",
-    "userName": "otagi",
-    "homePage": "https://www.mendes-costa.net/",
-    "modules": [
-      "Working with Code",
-      "Incremental Development"
-    ]
-  },
-  {
     "name": "Marie",
     "userName": "mariedevos",
     "imgURL": "https://mir-s3-cdn-cf.behance.net/user/230/7de49699884997.5e480bcfae8eb.jpg",
     "homePage": "https://www.behance.net/mariedevos",
     "modules": [
       "Working with Code",
-      "Incremental Development"
-    ]
-  },
-  {
-    "name": "Unmesh",
-    "userName": "unmeshvrije",
-    "modules": [
-      "Working with Code",
-      "Incremental Development"
-    ]
-  },
-  {
-    "name": "Kevin",
-    "userName": "kevintss",
-    "homePage": "https://kevintss.github.io/",
-    "modules": [
       "Incremental Development"
     ]
   }
